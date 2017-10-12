@@ -1,7 +1,7 @@
 name: patapy
 channels:
  - anaconda
-deapendencies:
+dependencies:
  - pip
  - python=3.6
  - pandas
