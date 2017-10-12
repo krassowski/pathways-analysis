@@ -1,5 +1,6 @@
 name: patapy
 channels:
+ - conda-forge
  - anaconda
 dependencies:
  - pip
