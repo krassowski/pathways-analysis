@@ -3,7 +3,7 @@ channels:
  - conda-forge
  - anaconda
 dependencies:
- - pip
+ - pip:
    - sphinx-autodoc-typehints
    - sphinx-autodoc-annotation
  - python=3.6
